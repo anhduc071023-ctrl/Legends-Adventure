@@ -3,7 +3,6 @@ Legends Adventure
 Legends Adventure is a 2D top-down action RPG developed with Unity and C#. The game is inspired by titles such as Soul Knight, The Legend of Zelda, and Dead Cells, combining real-time combat, dungeon exploration, and RPG progression into a pixel-art adventure.
 
 Story
-
 Players take on the role of a brave pirate exploring an uncharted island filled with monsters, deadly traps, and hidden treasures. Throughout the adventure, players battle enemies, collect resources, upgrade equipment, and defeat powerful bosses to uncover the island's secrets.
 
 Gameplay Features
@@ -17,8 +16,6 @@ Equipment and item shop system
 Multiple dungeon areas connected through portals
 Pixel-art graphics with animations
 Interactive UI and inventory system
-
-Các tính năng này đều được mô tả trong phần thiết kế gameplay, điều khiển và hệ thống nhân vật của đồ án.
 
 Technologies
 Unity
