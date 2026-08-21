@@ -1,35 +1,56 @@
-Legends Adventure
+# Legends Adventure
 
-Legends Adventure is a 2D top-down action RPG developed with Unity and C#. The game is inspired by titles such as Soul Knight, The Legend of Zelda, and Dead Cells, combining real-time combat, dungeon exploration, and RPG progression into a pixel-art adventure.
+**2D Top-Down Action RPG | Unity | C#**
 
-Story
-Players take on the role of a brave pirate exploring an uncharted island filled with monsters, deadly traps, and hidden treasures. Throughout the adventure, players battle enemies, collect resources, upgrade equipment, and defeat powerful bosses to uncover the island's secrets.
+Legends Adventure is a 2D top-down action RPG developed using Unity and C#.
 
-Gameplay Features
-Top-down 2D action RPG gameplay
-Real-time melee combat
-Dash system for fast movement and dodging
-Enemy AI with different attack behaviors
-Boss battles with unique attack patterns
-Health, mana, and gold collection
-Equipment and item shop system
-Multiple dungeon areas connected through portals
-Pixel-art graphics with animations
-Interactive UI and inventory system
+Inspired by *Soul Knight* and *The Legend of Zelda*, the game focuses on real-time combat, dungeon exploration, enemy AI, boss battles, and RPG progression.
 
-Technologies
-Unity
-C#
-Visual Studio
-Git & GitHub
-Aseprite / Pixel Art Assets
-Unity Animator
-Unity Tilemap
-My Responsibilities
-Designed gameplay mechanics and combat flow.
-Implemented player movement, dash, combat, and interaction systems.
-Developed enemy AI and boss behavior.
-Built inventory, shop, and item systems.
-Designed dungeon levels and progression.
-Implemented UI, animation, and visual effects.
-Optimized gameplay performance and project architecture.
+## Gameplay Demo
+
+
+
+## Features
+
+- Real-time melee combat
+- Player movement and dash
+- Enemy AI and attack patterns
+- Boss battles
+- Health and mana systems
+- Gold, items, and shop system
+- Dungeon exploration and portals
+- Environmental traps
+
+## Technologies
+
+**Unity | C# | Unity Animator | Unity Tilemap | Git | GitHub**
+
+## My Contributions
+
+- Developed player movement, dash, and combat systems
+- Implemented enemy AI and boss mechanics
+- Built health, mana, gold, item, and shop systems
+- Designed dungeon progression and gameplay flow
+- Implemented UI and visual effects
+
+## Screenshots
+
+<img width="578" height="308" alt="image" src="https://github.com/user-attachments/assets/9d79444f-a980-4ab7-8a57-9f08e55e4241" />
+
+
+![Combat](Images/combat.png)
+
+![Boss Battle](Images/boss.png)
+
+## Controls
+
+| Action | Control |
+|---|---|
+| Move | `WASD` |
+| Dash | `Space` |
+| Attack | `Left Mouse Button` |
+| Interact | `E` |
+
+## Skills
+
+**Unity Development | C# | Gameplay Programming | Enemy AI | Game Systems | UI Development**
