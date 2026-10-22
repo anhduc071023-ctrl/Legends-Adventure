@@ -8,7 +8,7 @@ Inspired by *Soul Knight* and *The Legend of Zelda*, the game focuses on real-ti
 
 ## Gameplay Demo
 
-
+[Watch Gameplay](https://youtu.be/KvFk84r64wI)
 
 ## Features
 
@@ -38,9 +38,11 @@ Inspired by *Soul Knight* and *The Legend of Zelda*, the game focuses on real-ti
 <img width="578" height="308" alt="image" src="https://github.com/user-attachments/assets/9d79444f-a980-4ab7-8a57-9f08e55e4241" />
 
 
-![Combat](Images/combat.png)
+![Combat](<img width="1121" height="710" alt="image" src="https://github.com/user-attachments/assets/1cfc5248-c9b0-4f44-aad6-c720918bdb9e" />
+)
 
-![Boss Battle](Images/boss.png)
+![Boss Battle](<img width="1128" height="700" alt="image" src="https://github.com/user-attachments/assets/cfa0c13f-c29a-4084-abd5-86611735d72e" />
+)
 
 ## Controls
 
