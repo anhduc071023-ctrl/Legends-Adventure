@@ -27,11 +27,12 @@ Inspired by *Soul Knight* and *The Legend of Zelda*, the game focuses on real-ti
 
 ## My Contributions
 
-- Developed player movement, dash, and combat systems
-- Implemented enemy AI and boss mechanics
-- Built health, mana, gold, item, and shop systems
-- Designed dungeon progression and gameplay flow
-- Implemented UI and visual effects
+-Designed gameplay mechanics and overall gameplay flow.
+-Planned combat encounters, enemy behaviors, and boss mechanics.
+-Designed dungeon progression and exploration challenges.
+-Developed player progression, resource, and shop systems.
+-Prototyped and implemented game features using Unity and C#.
+-Tested and refined gameplay mechanics to improve player experience.
 
 ## Screenshots
 
